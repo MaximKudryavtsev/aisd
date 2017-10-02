@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-<<<<<<< HEAD
-    <ProjectGuid>{CB7AFA1C-DA78-416D-956A-7CA3AB8C53BD}</ProjectGuid>
-=======
     <ProjectGuid>{3606A24D-2E35-4B7F-9AFA-9640E00FB195}</ProjectGuid>
->>>>>>> origin/master
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>queue</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
@@ -90,11 +86,7 @@
       <PrecompiledHeader>Use</PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-<<<<<<< HEAD
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-=======
       <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
->>>>>>> origin/master
       <SDLCheck>true</SDLCheck>
     </ClCompile>
     <Link>
@@ -107,11 +99,7 @@
       <PrecompiledHeader>Use</PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-<<<<<<< HEAD
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-=======
       <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
->>>>>>> origin/master
       <SDLCheck>true</SDLCheck>
     </ClCompile>
     <Link>
@@ -126,11 +114,7 @@
       <Optimization>MaxSpeed</Optimization>
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
-<<<<<<< HEAD
-      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-=======
       <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
->>>>>>> origin/master
       <SDLCheck>true</SDLCheck>
     </ClCompile>
     <Link>
@@ -147,11 +131,7 @@
       <Optimization>MaxSpeed</Optimization>
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
-<<<<<<< HEAD
-      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-=======
       <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
->>>>>>> origin/master
       <SDLCheck>true</SDLCheck>
     </ClCompile>
     <Link>
